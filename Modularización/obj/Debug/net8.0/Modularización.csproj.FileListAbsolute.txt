@@ -1,0 +1,14 @@
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfoInputs.cache
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfo.cs
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.csproj.CoreCompileInputs.cache
+c:\Users\Jeiner\Desktop\Modularización\bin\Debug\net8.0\Modularización.exe
+C:\Users\Jeiner\Desktop\Modularización\bin\Debug\net8.0\Modularización.deps.json
+C:\Users\Jeiner\Desktop\Modularización\bin\Debug\net8.0\Modularización.runtimeconfig.json
+c:\Users\Jeiner\Desktop\Modularización\bin\Debug\net8.0\Modularización.dll
+c:\Users\Jeiner\Desktop\Modularización\bin\Debug\net8.0\Modularización.pdb
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.dll
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\refint\Modularización.dll
+c:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.pdb
+C:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\Modularización.genruntimeconfig.cache
+C:\Users\Jeiner\Desktop\Modularización\obj\Debug\net8.0\ref\Modularización.dll
